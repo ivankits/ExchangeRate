@@ -1,0 +1,252 @@
+{
+    "brazilian real": {
+        "symbol": "R$",
+        "name": "Brazilian Real",
+        "symbol_native": "R$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BRL",
+        "name_plural": "Brazilian reals",
+        "position": "Brazil"
+    },
+    "british pound sterling": {
+        "symbol": "£",
+        "name": "British Pound Sterling",
+        "symbol_native": "£",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "GBP",
+        "name_plural": "British pounds sterling",
+        "position": "London"
+    },
+    "bulgarian lev": {
+        "symbol": "BGN",
+        "name": "Bulgarian Lev",
+        "symbol_native": "лв.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BGN",
+        "name_plural": "Bulgarian leva",
+        "position": "Sofia"
+    },
+    "canadian dollar": {
+        "symbol": "CA$",
+        "name": "Canadian Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CAD",
+        "name_plural": "Canadian dollars",
+        "position": "Canada"
+    },
+    "chinese yuan": {
+        "symbol": "CN¥",
+        "name": "Chinese Yuan",
+        "symbol_native": "CN¥",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CNY",
+        "name_plural": "Chinese yuan",
+        "position": "China"
+    },
+    "czech republic koruna": {
+        "symbol": "Kč",
+        "name": "Czech Republic Koruna",
+        "symbol_native": "Kč",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "CZK",
+        "name_plural": "Czech Republic korunas",
+        "position": "Prague"
+    },
+    "euro": {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros",
+        "position": "Europe"
+    },
+    "hong kong dollar": {
+        "symbol": "HK$",
+        "name": "Hong Kong Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "HKD",
+        "name_plural": "Hong Kong dollars",
+        "position": "Hongkong"
+    },
+    "hungarian forint": {
+        "symbol": "Ft",
+        "name": "Hungarian Forint",
+        "symbol_native": "Ft",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "HUF",
+        "name_plural": "Hungarian forints",
+        "position": "Budapest"
+    },
+    "indian rupee": {
+        "symbol": "Rs",
+        "name": "Indian Rupee",
+        "symbol_native": "টকা",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "INR",
+        "name_plural": "Indian rupees",
+        "position": "India"
+    },
+    "indonesian rupiah": {
+        "symbol": "Rp",
+        "name": "Indonesian Rupiah",
+        "symbol_native": "Rp",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "IDR",
+        "name_plural": "Indonesian rupiahs",
+        "position": "Jakarta"
+    },
+    "israeli sheqel": {
+        "symbol": "₪",
+        "name": "Israeli Sheqel",
+        "symbol_native": "₪",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ILS",
+        "name_plural": "Israeli new sheqels",
+        "position": "Israel"
+    },
+    "malaysian ringgit": {
+        "symbol": "RM",
+        "name": "Malaysian Ringgit",
+        "symbol_native": "RM",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MYR",
+        "name_plural": "Malaysian ringgits",
+        "position": "Kuala_Lumpur"
+    },
+    "norwegian krone": {
+        "symbol": "Nkr",
+        "name": "Norwegian Krone",
+        "symbol_native": "kr",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NOK",
+        "name_plural": "Norwegian kroner",
+        "position": "Oslo"
+    },
+    "philippine peso": {
+        "symbol": "₱",
+        "name": "Philippine Peso",
+        "symbol_native": "₱",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PHP",
+        "name_plural": "Philippine pesos",
+        "position": "Manila"
+    },
+    "polish zloty": {
+        "symbol": "zł",
+        "name": "Polish Zloty",
+        "symbol_native": "zł",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PLN",
+        "name_plural": "Polish zlotys",
+        "position": "Poland"
+    },
+    "russian ruble": {
+        "symbol": "RUB",
+        "name": "Russian Ruble",
+        "symbol_native": "₽.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "RUB",
+        "name_plural": "Russian rubles",
+        "position": "Moscow,Yekaterinburg,Kaliningrad,Adygey,Arkhangel'sk,Belgorod,Bryansk,Chechnya,Chuvash,Dagestan,Ingush,Ivanovo,Kabardin-Balkar,Kalmyk,Kaluga,Karachay-Cherkess,Karelia,Kirov,Komi,Kostroma,Krasnodar,Kursk,Leningrad,Lipetsk,Mariy-El,Mordovia,Moscow City,Moskva,Murmansk,Nenets,Nizhegorod,North Ossetia,Novgorod,Orel,Penza,Pskov,Rostov,Ryazan',Saint Petersburg City,Saratov,Smolensk,Stavropol',Tambov,Tatarstan,Tula,Tver',Vladimir,Volgograd,Vologda,Voronezh,Yaroslavl,Astrakhan',Samara,Udmurt,Altay,Gorno-Altay,Kemerovo,Khakass,Krasnoyarsk,Novosibirsk,Tomsk,Tuva,Buryat,Irkutsk,Amur,Zabaykal'ye,and the following raions of Sakha: Aldansky,Amginsky,Anabarsky,Bulunsky,Churapchinsky,Eveno-Bytantaisky,Gorny,Khangalassky,Kobyaisky,Lensky,Megino-Kangalassky,Mirninsky,Namsky,Nyurbinsky,Olenyoksky,Olyokminsky,Srednekolymsky,Suntarsky,Tattinsky,Ust-Aldansky,Verkhnekolymsky,Verkhnevilyuisky,Vilyuisky,Magadan,Sakhalin,Vladivostok,Khabarovsk,Primor'ye,Yevrey,and the following raions of Sakha: Tomponsky,Ust-Maisky,Ust-Yansky,Verkhoyansky,Chukot,Kamchatka"
+    },
+    "south african rand": {
+        "symbol": "R",
+        "name": "South African Rand",
+        "symbol_native": "R",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ZAR",
+        "name_plural": "South African rand",
+        "position": "Johannesburg"
+    },
+    "south korean won": {
+        "symbol": "₩",
+        "name": "South Korean Won",
+        "symbol_native": "₩",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "KRW",
+        "name_plural": "South Korean won",
+        "position": "Seoul"
+    },
+    "swiss franc": {
+        "symbol": "CHF",
+        "name": "Swiss Franc",
+        "symbol_native": "CHF",
+        "decimal_digits": 2,
+        "rounding": 0.05,
+        "code": "CHF",
+        "name_plural": "Swiss francs",
+        "position": "Zurich"
+    },
+    "taiwan dollar": {
+        "symbol": "NT$",
+        "name": "Taiwan Dollar",
+        "symbol_native": "NT$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TWD",
+        "name_plural": "New Taiwan dollars",
+        "position": "Taipei"
+    },
+    "thai baht": {
+        "symbol": "฿",
+        "name": "Thai Baht",
+        "symbol_native": "฿",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "THB",
+        "name_plural": "Thai baht",
+        "position": "Bangkok"
+    },
+    "turkish lira": {
+        "symbol": "TL",
+        "name": "Turkish Lira",
+        "symbol_native": "TL",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "TRY",
+        "name_plural": "Turkish Lira",
+        "position":"Istanbul"
+    },
+    "us dollar": {
+        "symbol": "$",
+        "name": "US Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "name_plural": "US dollars",
+        "position": "America"
+    },
+    "vietnamese dong": {
+        "symbol": "₫",
+        "name": "Vietnamese Dong",
+        "symbol_native": "₫",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "VND",
+        "name_plural": "Vietnamese dong",
+        "position": "Hanoi"
+    }
+}
